@@ -27,22 +27,7 @@
 
 ### ex: <body> my content </body> 
 
-### So a very basic HTML file might look like this 
 
-```
-<title> My Site </title>
-
-<body> 
-    <H1> Hello, My name is Jamie </H1>
-    <H2> I'm currently wirting the curriculum for Web-Development @ AFH </H2>
-    <H3> This is my Subheader </H3>
-
-    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus venenatis, ultricies arcu ac, accumsan massa. Praesent elementum egestas purus at dictum. </p>
-    <link>
-
-
-</body>
-```
 
 
 
