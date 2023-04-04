@@ -1,9 +1,9 @@
 # First we will get you connected to all platforms used withtin the creative technologies studio
 
 
-## Account Creations
+## **Account Creations**
 
-⭐️ [] First we will have you create a Discord Account and connect you to the server [https://discord.com/download]
+⭐️ [] First we will have you create a Discord Account and connect you to the server https://[discord.com/download]
 
 - Discord is used for most studio-wide and small group communications in the studio, some filing sharing, and sharing of resources / tutorials 
 - Our Animation Director Trevor also host a weekly stream of various anime's on discord
@@ -20,7 +20,7 @@
 - Use this invite link [https://join.slack.com/t/afhcreativetechnology/shared_invite/zt-1s6biih8j-D6e2TE9h0h1WuLlB~xyEkg] to gain acess to the workspace
 
 
-## Software Downloads
+## **Software Downloads**
 
 ## Now we want to download all the necessary software on your machine
 
@@ -32,9 +32,9 @@
 
 - Open all these applications after download to make sure they run and work porperly 
 
-## Essential Links / Important Information 
+## **Essential Links / Important Information**
 
-## There are important links you'll need during your time @ afh. It's HIGHLY RECCAMENDED to bookmark these in your browser
+#### There are important links you'll need during your time @ afh. It's <span style="color:red" > **HIGHLY RECCAMENDED** </span> to bookmark these in your browser
 
 ⭐️ [] Creative Technologies Learning Site [https://creativetechnology.afhboston.org]
 
