@@ -1,0 +1,77 @@
+/* Global styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+  }
+  
+  body {
+    background-color: #F5F5F5;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Header styles */
+  header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .name {
+    font-size: 48px;
+    color: #212121;
+    margin-bottom: 5px;
+  }
+  
+  .age {
+    font-size: 24px;
+    color: #757575;
+    margin: 0;
+  }
+  
+  /* Main styles */
+  main {
+    text-align: center;
+  }
+  
+  .section-title {
+    font-size: 36px;
+    color: #212121;
+    margin-bottom: 20px;
+  }
+  
+  .school, .why, .excitement {
+    font-size: 24px;
+    color: #757575;
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }
+  
+  .photo {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .favorite-website {
+    font-size: 24px;
+    color: #757575;
+    margin-bottom: 10px;
+  }
+  
+  .website-link {
+    color: #1976D2;
+    text-decoration: none;
+    border-bottom: 2px solid #1976D2;
+  }
+  
+  .website-link:hover {
+    color: #156
+  }

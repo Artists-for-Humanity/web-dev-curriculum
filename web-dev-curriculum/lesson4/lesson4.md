@@ -1,51 +1,96 @@
-# First we will get you connected to all platforms used withtin the creative technologies studio
+# JavaScript Basics
+JavaScript is a programming language that is commonly used to create interactive websites. In this guide, we will cover the basics of JavaScript, including variables, data types, operators, functions, objects, loops, and conditional statements.
+
+# Variables
+Variables are used to store values in JavaScript. In order to create a variable, you must first declare it using the let or const keyword, followed by the variable name. You can then assign a value to the variable using the assignment operator =
+
+```
+let myVariable = "Hello, world!";
+const PI = 3.14;
+```
+
+# Data Types
+JavaScript supports several different data types, including strings, numbers, booleans, null, and undefined. You can use the typeof operator to determine the data type of a variable.
+
+```
+let myString = "Hello, world!";
+let myNumber = 42;
+let myBoolean = true;
+let myNull = null;
+let myUndefined = undefined;
+
+console.log(typeof myString); // outputs "string"
+console.log(typeof myNumber); // outputs "number"
+console.log(typeof myBoolean); // outputs "boolean"
+console.log(typeof myNull); // outputs "object"
+console.log(typeof myUndefined); // outputs "undefined"
+```
+
+# Operators
+JavaScript supports several different operators, including arithmetic operators, comparison operators, and logical operators. These can be used to perform mathematical operations, compare values, and combine multiple conditions.
+
+```
+let x = 10;
+let y = 5;
+
+console.log(x + y); // outputs 15
+console.log(x - y); // outputs 5
+console.log(x * y); // outputs 50
+console.log(x / y); // outputs 2
+console.log(x % y); // outputs 0
+
+console.log(x == y); // outputs false
+console.log(x != y); // outputs true
+console.log(x > y); // outputs true
+console.log(x < y); // outputs false
+console.log(x >= y); // outputs true
+console.log(x <= y); // outputs false
+
+console.log(x > 0 && y > 0); // outputs true
+console.log(x > 0 || y < 0); // outputs true
+console.log(!(x > 0)); // outputs false
+```
 
 
-## Account Creations
+# Functions
+Functions are reusable blocks of code that can be called multiple times throughout your program. You can define a function using the function keyword, followed by the function name and any parameters that the function requires. You can then call the function by its name, passing in any required arguments.
 
-⭐️ [] First we will have you create a Discord Account and connect you to the server [https://discord.com/download]
+```
+function greet(name) {
+    console.log(`Hello, ${name}!`);
+  }
+  
+  greet("John"); // outputs "Hello, John!"
+  greet("Jane"); // outputs "Hello, Jane!"
 
-- Discord is used for most studio-wide and small group communications in the studio, some filing sharing, and sharing of resources / tutorials 
-- Our Animation Director Trevor also host a weekly stream of various anime's on discord
+```
+# Objects
+Objects are used to represent complex data structures in JavaScript. An object is created using curly braces {}, and can contain one or more key-value pairs.
 
-- Use this invite link [https://discord.gg/YB68UeP7] to find the server
-- Type your name in the #adress-yourself channels and wait to be assigned roles which will give you acess to more channels
+```
+let person = {
+    name: "John",
+    age: 30,
+    city: "New York"
+  };
+  
+  console.log(person.name); // outputs "John"
+  console.log(person.age); // outputs 30
+  console.log(person.city); // outputs "New York"
+```
 
-⭐️ [] We will then need you to create a Github Account [https://github.com/]
+# Loops
+Loops are used to execute a block of code multiple times. JavaScript supports several different types of loops, including for loops, while loops, and do-while loops.
 
--  Send a DM to your mentor on Discord of your Github Username
+```
+// for loop
+for (let i = 0; i < 5; i++) {
+  console.log(i);
+}
 
-⭐️ [] Lastly we will have you create a Slack account [https://slack.com/intl/en-in/get-started#/createnew]
-
-- Use this invite link [https://join.slack.com/t/afhcreativetechnology/shared_invite/zt-1s6biih8j-D6e2TE9h0h1WuLlB~xyEkg] to gain acess to the workspace
-
-
-## Software Downloads
-
-## now we want to download all the necissary software on your machine
-
-⭐️ [] Discord Download [https://discord.com/download]
-
-⭐️ [] Slack Download [https://slack.com/beta/mac]
-
-⭐️ [] Github Download [https://desktop.github.com/]
-
-- Open all these applications after download to make sure they run and work porperly 
-
-## Eseential Links / Important Information 
-
-## there are importan links you'll need during your time @ afh. It's HIGHLY RECOMMENDED to bookmark these in your browser
-
-⭐️ [] Creative Technologies Learning Site [https://creativetechnology.afhboston.org]
-
-- This site will have all the information in these lesson and more
-- Use it as referance once you start bigger projects / client work
-
-⭐️ [] Timesheet [https://docs.google.com/spreadsheets/d/1DnJh4hWTtfUcq6Ie6ypw-Wy7n_hpRtBXmDuTd15iEy0/edit#gid=797276536]
-
-- Use this file to clock in / clock out your time working in order to get paid
-- Input your name in an empty cell to start
-- You should Request a Direct-Deposit Form from your mentor as soon as possible to have your paychecks routed directly to your bank account
-
-
-### end of lesson 1
+// while loop
+let i = 0;
+while (i < 5) {
+  console
+}
+```
