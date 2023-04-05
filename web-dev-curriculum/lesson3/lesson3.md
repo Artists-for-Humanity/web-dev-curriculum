@@ -1,17 +1,23 @@
 https://codepip.com/games/
 
+
+# 🏆  **Goals:** 
+- ⭐️ create your first personal project
+
+<br>
+
 # Creating Your About Me page
 Let's create a single-page website about you, this can be used on your final portfolio project or to introducee yourself to the rest of the studio
 
 We will add the following information:
 
-Your name
-Your age
-Where you go to school
-Why you joined Creative Technology
-What you're excited to work on
-An image of yourself
-A link to one of your favorite websites
+- Your name
+- Your age
+-  Where you go to school
+- Why you joined Creative Technology
+- What you're excited to work on
+- An image of yourself
+- A link to one of your favorite websites
 
 # Step 1: Set Up Your Project
 Create a new folder in the lesson 3 folder name it your name. Inside the folder, create two new files: index.html and style.css.
@@ -19,7 +25,7 @@ Create a new folder in the lesson 3 folder name it your name. Inside the folder,
 #  Step 2: HTML Structure
 In your index.html file, paste the following code:
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -36,7 +42,7 @@ In your index.html file, paste the following code:
         <h2 class="section-title">About Me</h2>
         <p class="school">School: Where you go to school</p>
         <p class="why">Why I joined Creative Technology: Why you joined Creative Technology</p>
-        <p class="excitement">What I'm excited to work on: What you're excited to work on</p>
+        <p class="excitement">What I am excited to work on: What you are excited to work on</p>
         <img class="photo" src="your-image.jpg" alt="Your Name">
         <p class="favorite-website">One of my favorite websites: <a href="https://www.example.com" class="website-link">Example Website</a></p>
       </main>
@@ -45,13 +51,13 @@ In your index.html file, paste the following code:
 </html>
 ```
 
-In the code above, we have created the basic HTML structure for the page. The title tag sets the title of the page, which will be displayed in the browser tab. We have also linked our style.css file to the HTML file.
+We have now created the basic HTML structure for the page. The <span style="color:white; background-color:gray;padding:3px; border-radius:4px; ">title</span> tag sets the title of the page, which will be displayed in the browser tab. We have also linked our <span style="color:black; background-color:lightblue ;padding:2px; border-radius:4px; ">style.css</span> file to the HTML file.
 
-We then created a container div to hold the content of our page. Inside the container, we added a header and a main section.
+We then created a container <span style="color:white; background-color:gray;padding:3px; border-radius:4px; ">div</span> to hold the content of our page. Inside the container, we added a <span style="color:white; background-color:gray;padding:3px; border-radius:4px; ">header</span> and a <span style="color:white; background-color:gray;padding:3px; border-radius:4px; ">main</span> section.
 
-In the header, we added an h1 tag with your name and a p tag with your age.
+In the header, we added an <span style="color:white; background-color:gray;padding:3px; border-radius:4px; ">h1</span> tag with your name and a <span style="color:white; background-color:gray;padding:3px; border-radius:4px; ">p</span> tag with your age.
 
-In the main section, we added a series of p tags with information about you, an image of yourself, and a link to one of your favorite websites.
+In the main section, we added a series of <span style="color:white; background-color:gray;padding:3px; border-radius:4px; ">p</span> tags with information about you, an <span style="color:white; background-color:gray;padding:3px; border-radius:4px; ">image</span> of yourself, and a <span style="color:white; background-color:gray;padding:3px; border-radius:4px; ">link</span> to one of your favorite websites.
 
 
 # Step 3: Styling Your Website
@@ -59,7 +65,7 @@ In the main section, we added a series of p tags with information about you, an 
 Now that we have our HTML structure set up, we can add some styling to our website. Open your style.css file and add the following code:
 
 
-```
+``` css
 /* Global styles */
 * {
   margin: 0;
@@ -138,3 +144,10 @@ main {
   color: #156
 }
 ```
+
+You'll find exmaples from your mentors in the folder with their names (also located in the lesson 3 folder)
+- to access them open up the folder with the person's name
+- naviagate to the HTML file within the folder
+- click the go live button
+
+⭐️ Hint: do this before beginning your own. you'll find some helpful games / links in the mentors ID cards

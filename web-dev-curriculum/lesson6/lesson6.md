@@ -1,48 +1,46 @@
-# First we will get you connected to all platforms used withtin the creative technologies studio
+https://codepip.com/games/
 
 
-## Account Creations
+# 🏆  **Goals:** 
+- ⭐️ create an original personality quiz
 
-⭐️ [] First we will have you create a Discord Account and connect you to the server [https://discord.com/download]
+<br>
 
-- Discord is used for most studio-wide and small group communications in the studio, some filing sharing, and sharing of resources / tutorials 
-- Our Animation Director Trevor also host a weekly stream of various anime's on discord
+# Creating Your About Me page
+Let's create an original personality quiz. This project can also be used to add to your final portfolio site. Thinks of an original concept and line out some questions.
 
-- Use this invite link [https://discord.gg/YB68UeP7] to find the server
-- Type your name in the #adress-yourself channels and wait to be assigned roles which will give you acess to more channels
+You're required to have the following:
 
-⭐️ [] We will then need you to create a Github Account [https://github.com/]
+- A Title
+- Short Descirption of Personlaity quiz
+- At Least 6 questions
+- Final Result
 
--  Send a DM to your mentor on Discord of your Github Username
+# Step 1: Set Up Your Project
+Create a new folder in the lesson 3 folder name it your name. Inside the folder, create two new files: index.html and style.css.
 
-⭐️ [] Lastly we will have you create a Slack account [https://slack.com/intl/en-in/get-started#/createnew]
+#  Step 2: HTML Structure
+In your index.html file, paste the following code:
 
-- Use this invite link [https://join.slack.com/t/afhcreativetechnology/shared_invite/zt-1s6biih8j-D6e2TE9h0h1WuLlB~xyEkg] to gain acess to the workspace
+```html
+
+```
 
 
-## Software Downloads
 
-## now we want to download all the necissary software on your machine
+# Step 3: Styling Your Website
 
-⭐️ [] Discord Download [https://discord.com/download]
+Now that we have our HTML structure set up, we can add some styling to our website. Open your style.css file and add the following code:
 
-⭐️ [] Slack Download [https://slack.com/beta/mac]
 
-⭐️ [] Github Download [https://desktop.github.com/]
+``` css
 
-- Open all these applications after download to make sure they run and work porperly 
 
-## Eseential Links / Important Information 
+```
 
-## there are importan links you'll need during your time @ afh. It's HIGHLY RECCAMENDED to bookmark these in your browser
+You'll find exmaples from your mentors in the folder with their names (also located in the lesson 3 folder)
+- to access them open up the folder with the person's name
+- naviagate to the HTML file within the folder
+- click the go live button
 
-⭐️ [] Creative Technologies Learning Site [https://creativetechnology.afhboston.org]
-
-- This site will have all the information in these lesson and more
-- Use it as referance once you start bigger projects / client work
-
-⭐️ [] Timesheet [https://docs.google.com/spreadsheets/d/1DnJh4hWTtfUcq6Ie6ypw-Wy7n_hpRtBXmDuTd15iEy0/edit#gid=797276536]
-
-- Use this file to clock in / clock out your time working in order to get paid
-- Input your name in an empty cell to start
-- You should Request a Direct-Deposit Form from your mentor as soon as possible to have your paychecks routed directly to your bank account
+⭐️ Hint: You'll find some intersting functionality and features in these you may want to try and add to your own site

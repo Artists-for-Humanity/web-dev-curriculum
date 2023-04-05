@@ -6,7 +6,13 @@ We will use this repository to learn the basics of web development and create sa
 
 This will increase readability
 
-You'll also want to open VS code into two windows, one showing your mdx file and nother showing your corr
+You'll also want to make VScode display two files using the split editor button which looks like a box split in half
+
+![desktop](../images/split_screen.png)
+
+Your code editor should know look like this:
+
+![desktop](../images/desktop.png)
 
 # To Begin
 
@@ -20,4 +26,5 @@ You'll also want to open VS code into two windows, one showing your mdx file and
 
     - These will be your Lessons/ Task for the day
     - Each folder should contain a script file like this one explaining the directions for  each lesson
+    - open the files as directed and begin...
 
