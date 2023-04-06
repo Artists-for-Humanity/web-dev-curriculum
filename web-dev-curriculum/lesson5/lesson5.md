@@ -6,11 +6,11 @@
 # JavaScript Loops and Advanced Concepts
 <p style="text-align: center;">In this lesson, we will cover more advanced JavaScript concepts, including different types of loops, control statements, and functions.</p>
 
-# Loops 
+# ➡️ Loops 
  Loops are used to execute a block of code multiple times. JavaScript supports several different types of loops:
  
 
-# For Loop
+# ➡️ For Loop
 The for loop is used to execute a block of code a specific number of times. It consists of three parts:
 
 - Initialization: initialize a counter variable to start the loop.
@@ -24,7 +24,7 @@ for (let i = 0; i < 10; i++) {
 ```
 <br>
 
-# While Loop
+# ➡️ While Loop
 The while loop is used to execute a block of code as long as a specified condition is true.
 
 ```javascript
@@ -35,7 +35,7 @@ while (i < 10) {
 }
 ```
 
-# Do-While Loop
+# ➡️ Do-While Loop
 The do-while loop is similar to the while loop, but the code will be executed at least once, regardless of whether the condition is true or false.
 
 ```javascript
@@ -46,7 +46,7 @@ do {
 } while (i < 10);
 ```
 
-# Control Statements
+# ➡️ Control Statements
 Control statements are used to control the flow of a program, and include if statements, switch statements, and the ternary operator.
 
 ## ⭐️ If Statement
@@ -84,7 +84,7 @@ let result = x > 5 ? "x is greater than 5" : "x is less than or equal to 5";
 console.log(result);
 ```
 
-# Functions
+# ➡️ Functions
 Functions are reusable blocks of code that can be called multiple times throughout your program. They can also take parameters and return values.
 
 <br>

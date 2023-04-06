@@ -76,9 +76,25 @@ In the **Lesson 2** folder open up <span style="color:#FFC857"> **lesson2pt2** <
 
 ####   ➡️   **Open up <span style= "color:#FFC857"> **lesson2pt2.html** </span> and click the "Go Live" button on the bottom right of your VS code, see how <span style= "color:lightblue"> **lesson2.css** </span> effects the page**
 
+<br>
 
+# **Tutorials**:
 
+Play these games to learn about <span style="color:white; background-color:gray;padding:3px; border-radius:4px; ">display:flex</span> and <span style="color:white; background-color:gray;padding:3px; border-radius:4px; ">display:grid</span> properties. Essential to alot of spacing solutions in your websites
 
+🐸 Flexbox Froggy [https://flexboxfroggy.com/]
+
+🌱 Grid Garden [https://cssgridgarden.com/]
+
+Test out your skills and see if you can create real-world projects using Front End Mentor. Here's some suggested tutorials but you can choose any of projects.
+
+💻 Front End Mentor [https://www.frontendmentor.io/]
+
+- Product preview card [https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa]
+
+- Results summary [https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV]
+
+- NFT preview card [https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U]
 
 
 

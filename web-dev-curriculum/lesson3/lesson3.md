@@ -19,10 +19,10 @@ We will add the following information:
 - An image of yourself
 - A link to one of your favorite websites
 
-# Step 1: Set Up Your Project
+# 🗂 Step 1: Set Up Your Project
 Create a new folder in the lesson 3 folder name it your name. Inside the folder, create two new files: index.html and style.css.
 
-#  Step 2: HTML Structure
+#  🧱 Step 2: HTML Structure
 In your index.html file, paste the following code:
 
 ```html
@@ -60,7 +60,7 @@ In the header, we added an <span style="color:white; background-color:gray;paddi
 In the main section, we added a series of <span style="color:white; background-color:gray;padding:3px; border-radius:4px; ">p</span> tags with information about you, an <span style="color:white; background-color:gray;padding:3px; border-radius:4px; ">image</span> of yourself, and a <span style="color:white; background-color:gray;padding:3px; border-radius:4px; ">link</span> to one of your favorite websites.
 
 
-# Step 3: Styling Your Website
+# 🎨 Step 3:Styling  Your Website
 
 Now that we have our HTML structure set up, we can add some styling to our website. Open your style.css file and add the following code:
 

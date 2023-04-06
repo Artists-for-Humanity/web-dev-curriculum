@@ -1,4 +1,4 @@
-## <span style="color:lightblue" > **First we will get you connected to all platforms used withtin the creative technologies studio** </span>
+# <span style="color:lightblue" > **First we will get you connected to all platforms used withtin the creative technologies studio** </span>
 
 <br>
 
