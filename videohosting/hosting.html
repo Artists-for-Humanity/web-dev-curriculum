@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <html lang="en">
+
+        <head>
+          <meta charset="UTF-8" />
+          <title>Video Hosting</title>
+          <meta name="viewport" content="width=device-width, initial-scale=1">
+          <link rel="stylesheet" href="hosting.css" type="text/css" />
+        </head>
+<body>
+  
+    <Header>Video Hosting Options</Header>
+    <!-- video in project -->
+    <H1> MP4 In Project</H1>
+    <div class="video">
+        <video width="560" height="315" controls>
+            <source src="ball.mp4" type="video/mp4">
+        </video>
+    </div>
+
+    <!-- video fromm outside source -->
+    <H1> From Outside Source</H1>
+    <div class="outside-source video" style="width: 560px; height: 315px; float: none; clear: both; margin: 2px auto;">
+        <embed
+          src="https://www.youtube.com/embed/J---aiyznGQ?autohide=1&autoplay=1"
+          wmode="transparent"
+          type="video/mp4"
+          width="100%" height="100%"
+          allow="autoplay; encrypted-media; picture-in-picture"
+          allowfullscreen
+          title="Keyboard Cat"
+        >
+    </div>
+
+
+    <!-- using iframe -->
+    <H1> Youtube using iframe </H1>
+
+    <iframe class="video"
+        width="560" 
+        height="315" 
+        src="https://www.youtube.com/embed/etOFJS7hbtU" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen>
+    </iframe>
+    
+    <!-- using object -->
+    <H1> using object </H1>
+    <div> still need to use embed link from youtube "emebed" feature </div>
+    <div class="video"v>
+        <object class="object"
+            data="http://www.youtube.com/embed/J---aiyznGQ?autoplay=1">
+        </object>
+        <object class="object"
+        data="https://www.youtube.com/embed/Sqa8Zo2XWc4">
+    </object>
+        
+    </div>
+  
+    <!-- using embed -->
+    <H1> Youtube using embed (iframe from youtube embed) </H1>
+    <iframe class="video"
+        width="560" 
+        height="315" 
+        src="https://www.youtube.com/embed/Sqa8Zo2XWc4" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen>
+    </iframe>
+ 
+</body>
+
+</html>

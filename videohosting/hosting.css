@@ -1,0 +1,43 @@
+body{
+    display:flex;
+    flex-direction: column;
+    width:30%;
+    margin:auto;
+    background-color:gray;
+}
+
+header{
+    font-size:40px;
+    font-weight:bold;
+    padding:20px;
+    border-radius:8px;
+    background-color:rgba(255, 255, 255, 0.266);
+    margin:20px;
+    text-align: center;
+}
+
+.outside-source {
+    width: 560px; 
+    height: 315px; 
+    float: none; 
+    clear: both; 
+    margin: 2px auto;
+}
+
+.object{
+    width: 560px; 
+    height: 315px; 
+    float: none; 
+    clear: both; 
+    margin: 2px auto;
+}
+
+H1{
+    font-size: 30px;
+    font-weight:bold;
+    text-decoration:underline
+}
+
+.video{
+    
+}
